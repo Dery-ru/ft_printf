@@ -1,5 +1,4 @@
 #include "../includes/ft_printf.h"
-// 3#include <stdio.h>
 
 static t_flags	flags_init(void)
 {
